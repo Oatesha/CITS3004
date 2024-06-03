@@ -1,0 +1,5 @@
+veryweakpassword
+True
+pynput
+AES_CBC
+python ransomware.py --decrypt
